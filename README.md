@@ -58,6 +58,6 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:**Evet.Uygulanan kuvveti bilmemiz yeterli**
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**1.65m/s** 
-* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Tam emin olmamakla beraber 2.60-62 civarı bir şey çıkıyor
+* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Tam emin olmamakla beraber 2.61 civarı bir şey çıkıyor**
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Hayır**
