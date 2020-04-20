@@ -48,16 +48,16 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1iNbWChHZfT8BYzyvX8z6NfEAUQPiIrhs8WJtwZl_DkE/edit?usp=sharing) link veriniz.
 
-2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
+2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.**Verdiğim sheet tablosunda var**
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz.**Cevap:İvmeyi bulduğum değer google sheet'de mevcuttur. F=x.10 x=F/10
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz.**Cevap:İvmeyi bulduğum değer google sheet'de mevcuttur. F=x.10 x=F/10, -2,45**
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? **Cevap:Ben pek emin olmamakla beraber zaman hatasının 10-20 ms ölçüm hatasını ise ortalama 1 cm olarak tahmin ediyorum** 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:**Evet.Uygulanan kuvveti bilmemiz yeterli**
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
-* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**1.65m/s** 
+* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Tam emin olmamakla beraber 2.60-62 civarı bir şey çıkıyor
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Hayır**
